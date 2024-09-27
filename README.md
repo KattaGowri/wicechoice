@@ -12,6 +12,7 @@ To address these challenges, WiseChoice harnesses the power of machine learning,
 
 1.Evaluating Product Quality
 To determine the quality of a product, reviews associated with the product are to be extensively analyzed. However, reviews present their own set of challenges:
+
         1) The sheer volume of reviews for each product can be overwhelming.
         2) The presence of fake reviews, which can be categorized into:
                 i) Computer-generated reviews that mimic genuine feedback.
@@ -20,6 +21,7 @@ To determine the quality of a product, reviews associated with the product are t
 WiseChoice uses advanced algorithms to sift through the vast number of reviews, identifying genuine feedback while filtering out fake reviews. This helps provide a clearer and more accurate assessment of the product's quality.
 
 It is acheived by :
+
         1. Eliminating Fake computer generated reviews
         2. Detecting Paid Reviews
         3. Evaluating Price Fairness
