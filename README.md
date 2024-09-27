@@ -10,8 +10,7 @@ There are doubts about the fairness of the current price.
 
 To address these challenges, WiseChoice harnesses the power of machine learning, deep learning, and natural language processing.
 
-1.Evaluating Product Quality
-To determine the quality of a product, reviews associated with the product are to be extensively analyzed. However, reviews present their own set of challenges:
+Evaluating Product Quality to determine the quality of a product, reviews associated with the product are to be extensively analyzed. However, reviews present their own set of challenges:
 
         1) The sheer volume of reviews for each product can be overwhelming.
         2) The presence of fake reviews, which can be categorized into:
@@ -34,6 +33,7 @@ For more information regarding the Project, visit : https://techwithnikith.hashn
 **SETUP**
 
 Firstly prerequesities are : 
+
         1) python (above 3.10) and Node (npm) should be installed and added to PATH variables.
         2) No need for GPU but atleast 8GB RAM is necessary.
 
